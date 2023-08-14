@@ -1,0 +1,45 @@
+@media (max-width:400px){
+    .navbar-brand{
+        justify-content: center;
+    }
+}
+#text{
+    color: rgb(57, 92, 163);
+}
+#subscrib{
+    width: 200px;
+    border-radius: 20px;
+  background-color:rgb(100, 136, 204);
+}
+#email{
+   border-color: rgb(100, 100, 186);
+    width: 300px;
+    border-radius: 20px;
+   color: rgb(93, 93, 193);
+
+}
+
+#cate{
+    width: 300px;
+    height: 200px;
+   border-radius: 50%;
+}
+
+#product{
+    height: 300px;
+}
+#body{
+    background-color: antiquewhite;
+    height: 300px;
+}
+.all{
+    background-color: rgb(23, 23, 56);
+    color: white;
+}
+#form{
+    /* background-color: rgb(223, 223, 223); */
+    background-color: rgb(210, 210, 210);
+    border-radius: 20px;
+    border: 0px;
+}
+
